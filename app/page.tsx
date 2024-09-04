@@ -1,5 +1,4 @@
-import Image from "next/image";
-import { Button, Grid, GridItem, Show } from "@chakra-ui/react";
+import { Grid, GridItem, Show } from "@chakra-ui/react";
 import { NavBar } from "@/app/components/NavBar";
 import GameGrid from "@/app/components/GameGrid";
 
